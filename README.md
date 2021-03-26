@@ -7,4 +7,7 @@ Contexte du projet
 
 tuto sur l'utilisation de AWS_S3
 
-
+autres services de AWS :
+  - AWS -EC2
+  - AWS -SageMaker
+  - AWS_-_Machine_Learning.
